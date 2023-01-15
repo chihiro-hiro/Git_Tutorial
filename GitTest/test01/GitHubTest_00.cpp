@@ -14,5 +14,12 @@ int main(void)
 	printf("‚²‚ß‚ñ‚È‚³‚¢\n");
 	printf("‚²‚ß‚ñ‚È‚³‚¢\n");
 
+	printf("‚ ‚ ‚ \n");
+
+	for (int i = 0; i < 5; i++)
+	{
+		printf("aaa\n");
+	}
+
 	return 0;
 }
